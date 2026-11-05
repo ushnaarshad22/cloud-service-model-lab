@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Public Cloud Lab</title>
+</head>
+<body>
+ <h1>Welcome to the Public Cloud Lab</h1>
+ <p>This static website is deployed using GitHub Pages.</p>
+ <p>Course: Cloud Infrastructure and Services</p>
+</body>
+</html>
+
